@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101355556502",
+    "project_id": "medical-b65a5",
+    "storage_bucket": "medical-b65a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101355556502:android:6e317aa88a1b057e21bcb7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_localization_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101355556502-9ijho29qt56u8niaqnb60q6o06v32mip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcoZTs_GvYAyolFhkKL43vcEFL0pfKqGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101355556502-9ijho29qt56u8niaqnb60q6o06v32mip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
